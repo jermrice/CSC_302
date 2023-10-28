@@ -1,2 +1,3 @@
 # CSC_302
-HomeWork
+
+I created this repositiry to digitally store/display HomeWork.
